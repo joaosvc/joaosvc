@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João 🖐️
 
-![joaosvc GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosvc&show_icons=true&theme=tokyonight)
+![Joãosvc GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosvc&show_icons=true)
 
 ## Tecnologias que são a fonte da sabedoria..
 
@@ -13,10 +13,3 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
-
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/509852197698404372/a_ef2c8ccf3a6d2186d27f143e1e7e17bd.gif?size=2048">
-</div>
-
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
-
-![snake gif](https://github.com/uTalDoLeo/uTalDoLeo/blob/output/github-contribution-grid-snake.svg)
