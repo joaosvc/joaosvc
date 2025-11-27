@@ -1,8 +1,8 @@
 ## Olá, me chamo João Pedro ✋
 ## Cursando Engenharia da Computação na UFC
 
-## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21413450/jo%c3%a3o-pedro) 
+<!--## 🌐 Socials:
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21413450/jo%c3%a3o-pedro)  -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=joaosvc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
